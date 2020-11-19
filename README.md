@@ -1,8 +1,8 @@
 # README generator 
-This application was developed by: Akessler314
+This application was developed by: Sdaykin42
 
 This is an application that will generate a README file using promts in the terminal, using inquirer. 
-Video of Working Application: https://www.youtube.com/watch?v=JY0aUlRhfso&feature=youtu.be
+
 
 ## Installation
 This application runs locally to, the only way to download would be to clone or downlaod this repository at the moment. 
